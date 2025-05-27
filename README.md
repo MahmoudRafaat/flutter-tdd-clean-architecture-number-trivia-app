@@ -10,6 +10,7 @@ A Flutter app demonstrating Clean Architecture and TDD.
 
 ## Project structre
 ![images](https://github.com/user-attachments/assets/8097326c-d61a-4e77-b9e3-a2ef6d20732d)
+![CleanArchitecture](https://github.com/user-attachments/assets/6f8f4ce7-47fb-4343-bade-ed252705a84e)
 
 
 ## Screenshot
