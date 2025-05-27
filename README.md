@@ -1,16 +1,19 @@
-# training
+# TDD clean architecture number trivia app
 
-A new Flutter project.
+A Flutter app demonstrating Clean Architecture and TDD.
 
-## Getting Started
+## Features
 
-This project is a starting point for a Flutter application.
+- Fetch random number trivia
+- Search trivia for specific numbers
+- Cache last trivia offline
 
-A few resources to get you started if this is your first Flutter project:
+## Project structre
+![images](https://github.com/user-attachments/assets/8097326c-d61a-4e77-b9e3-a2ef6d20732d)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Screenshot
+![1725441611467](https://github.com/user-attachments/assets/03416a9d-1d25-44e5-850f-b7cc34eb8ca3)
+![1725441610660](https://github.com/user-attachments/assets/58b1cb19-bc0a-4266-90f2-7dec0cab2021)
+
+
